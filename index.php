@@ -1,5 +1,5 @@
 <?php
-include("actions/config.php");
+include("config.php");
 
 function getCountries($db)
 {
